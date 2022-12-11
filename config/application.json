@@ -1,8 +1,8 @@
 {
     "mail":{
-        "username":"***",
+        "username":"22120077",
         "nickname":"AutoCard",
-        "password":"***",
+        "password":"DOit54321",
         "smtp":"smtp.zju.edu.cn",
         "port":994
     },
@@ -10,8 +10,8 @@
         {
             "username":"***",
             "password":"***",
-            "nickname":"张三",
-            "mail":"***",
+            "nickname":"Rocky",
+            "mail":"yunpeng.do@gmail.com",
             "cron":"0 0 0 * * ? *",
             "dingtalkurl": "https://oapi.dingtalk.com/robot/send?access_token=****",
             "dingtalksecret": "SEC****",
