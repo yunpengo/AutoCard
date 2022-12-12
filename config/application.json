@@ -10,8 +10,8 @@
         {
             "username":"***",
             "password":"***",
-            "nickname":"Rocky",
-            "mail":"yunpeng.do@gmail.com",
+            "nickname":"张三",
+            "mail":"***",
             "cron":"0 0 0 * * ? *",
             "dingtalkurl": "https://oapi.dingtalk.com/robot/send?access_token=****",
             "dingtalksecret": "SEC****",
